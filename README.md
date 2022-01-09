@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Princess Jewel Jel-Edema
+#### I am a Front-End Web Developer
+![I am a Front-End Web Developer](https://res.cloudinary.com/dpqxraalv/image/upload/v1641733739/princess_nzitjk.jpg)
 
-<!--
-**Princess-Jewel/Princess-Jewel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am a Front-End Web Developer from Nigeria. I am an independent self-starter team player who is organized, detail oriented and able to work in a dynamic environment. I have hands-on experience working with several Web tools and frameworks. I also have experience converting Figma and Adobe XD design mockups. I love bringing beautiful designs to life, and i'm currently working at PandarNG. I mainly code in Javascript, in 2021 I fell in love with Next.js, React, Vue.js and so many other modern web frameworks. I am always learning and improving my knowledge.
 
-Here are some ideas to get you started:
+Skills: VUE JS / NEXTJS/ REACTJS / JS / GIT / HTML / SCSS / CSS 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on https://redem-user-dashboard.herokuapp.com/ 
+- 🌱 I’m currently learning NextJS 
+- 👯 I’m looking to collaborate on more open-source projects and also help organize tech fests 
+- 💬 Ask me about anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍! 
+- 😄 Pronouns: Her/She 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Princess-Jewel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/princess-jewel-jel-edema/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/thatebonychic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://princess-jewel.herokuapp.com)  
+
