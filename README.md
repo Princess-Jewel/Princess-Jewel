@@ -6,7 +6,7 @@
 
 Skills: REDUX/ NPM/ VUE JS / NEXTJS/ REACTJS / JS / GIT / HTML / SCSS / CSS 
 
-- 🔭 I’m currently working on https://redem-user-dashboard.herokuapp.com/ 
+- 🔭 I’m currently working on https://redem-user-dashboard.herokuapp.com/ and https://getredem.io
 - 🌱 I’m currently learning NextJS 
 - 👯 I’m looking to collaborate on more open-source projects and also help organize tech fests 
 - 💬 Ask me about anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍! 
