@@ -10,7 +10,7 @@
 
 Skills: REDUX/ NPM / VUEJS / NEXTJS/ REACTJS / JS / GIT / HTML / SCSS / CSS 
 
-- 🔭 I’m currently working on https://app.getredem.io/ and https://getredem.io
+- 🔭 I built https://app.getredem.io/ and https://getredem.io
 - 🌱 I’m currently learning NextJS 
 - 👯 I’m looking to collaborate on more open-source projects, help organize Tech Fests and also speak at Tech Conferences.
 - 💬 Ask me about anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍! 
