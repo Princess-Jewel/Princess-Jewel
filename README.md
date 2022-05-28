@@ -8,7 +8,7 @@
 
  I am a Front-End Web Developer and a freelance Software Developer  from Nigeria. I am an independent self-starter team player who is organized, detail oriented and able to work in a dynamic environment. I have hands-on experience working with several Web tools and frameworks. I also have experience converting Figma and Adobe XD design mockups. I love bringing beautiful designs to life, and I'm currently working at PandarNG. I mainly code in Javascript, in 2021 I fell in love with Next.js, React, Vue.js and so many other modern web frameworks. I am always learning and improving my knowledge.
 
-Skills: REDUX/ NPM / VUEJS / NEXTJS/ REACTJS / JS / GIT / HTML / SCSS / CSS 
+Skills: REDUX/ NPM / WEBPACK/ VUEJS / NEXTJS/ REACTJS / JS / GIT / HTML / TAILWIND / BOOTSTRAP / CSS 
 
 - 🔭 I built https://app.getredem.io/ and https://getredem.io
 - 🌱 I’m currently learning NextJS 
