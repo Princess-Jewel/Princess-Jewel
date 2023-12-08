@@ -21,8 +21,8 @@ Problem Solving: Analytical mindset with a knack for troubleshooting and problem
 
 Skills: JAVASCRIPT / TYPESCRIPT / REDUX / NPM / WEBPACK / VUEJS / NEXTJS/ REACTJS / GIT / HTML / TAILWIND / BOOTSTRAP / CSS 
 
-- 🔭 I built https://crane-backup.vercel.app/, https://app.getredem.io/ and https://getredem.io. SEE MORE OF MY PROJECTS ON https://princess-jewel.vercel.app/
-- 🌱 I’m currently learning NodeJS 
+- 🔭 I built https://usecrane.co, https://app.getredem.io/, https://getrewrd.vercel.app/ and https://getredem.io. SEE MORE OF MY PROJECTS ON https://princess-jewel.vercel.app/
+- 🌱 I’m currently learning NodeJS/Express/MYSQL/SEQUELIZE/NESTJS
 - 👯 I’m looking to collaborate on more open-source projects, help organize Tech Fests and also speak at Tech Conferences and Twitter Spaces too.
 - 💬 Ask me about anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍! 
 - 📫 How to reach me: princessjewel80@gmail.com 
