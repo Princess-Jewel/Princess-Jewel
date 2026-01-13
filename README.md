@@ -18,6 +18,17 @@ I enjoy building systems that are **reliable, scalable, and user-focused**, and 
 
 ---
 
+### 🧠 Core Expertise
+
+- Full-stack development (React, Node.js)
+- API design & backend systems
+- Fintech platforms (wallets, transactions, gift cards)
+- Internal tools & real-time systems
+- Performance, reliability & clean architecture
+- Cross-functional collaboration
+
+---
+
 ### 🚀 Selected Projects
 
 - **Rewrd** – Full-stack loyalty & cashback platform helping businesses retain customers  
@@ -44,6 +55,17 @@ I enjoy building systems that are **reliable, scalable, and user-focused**, and 
 - Open to collaborating on **open-source projects**
 - Interested in **speaking at tech events**, conferences, and Twitter/X Spaces
 - Passionate about sharing knowledge and learning from other engineers
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Princess-Jewel&show_icons=true&hide_title=true&hide=issues&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princess-Jewel&layout=compact&hide_title=true" height="150" />
+</p>
+
+> Note: Most production work lives in private repositories.
 
 ---
 
