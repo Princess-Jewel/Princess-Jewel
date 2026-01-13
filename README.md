@@ -58,17 +58,6 @@ I enjoy building systems that are **reliable, scalable, and user-focused**, and 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Princess-Jewel&show_icons=true&hide_title=true&hide=issues&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princess-Jewel&layout=compact&hide_title=true" height="150" />
-</p>
-
-> Note: Most production work lives in private repositories.
-
----
-
 ### 💬 Let’s talk
 
 - Ask me about **React, Node.js, system design, fintech, or internal tools**
